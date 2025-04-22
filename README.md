@@ -1,0 +1,1 @@
+# 21. Section 23 - SOLID Principles - Stocks App
